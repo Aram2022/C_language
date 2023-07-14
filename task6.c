@@ -3,7 +3,6 @@
 int main(){
 
 	int num1, num2, num3, num4;
-	int total = 0;
 
 	printf("enter number 1: \n");
 	scanf("%d", &num1);
